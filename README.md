@@ -1,7 +1,6 @@
 # K-Means-Clustering-on-Happyscore-Dataset
 Using K-Means Clustering method on happyscore dataset. It's allowing over 110 countries.
 
-I made this in jupyter notebook. 
 First I downloaded the dataset from the Internet. Then in my first lines, I imported the data set using pandas library.
 
 Then I calculated some statistical measures over the data and printed them out. 
